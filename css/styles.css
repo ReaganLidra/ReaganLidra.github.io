@@ -11229,14 +11229,14 @@ nav a:hover {
   }
 }
 @media only screen and (max-width: 400px) {}
-  .card {
+  .text {
 
   width: 90%;
   height: 90%;
 
   }
 @media only screen and (max-width: 800px) {}
-  .card {
+  .text {
 
   width: 90%;
   height: 90%;
@@ -11244,7 +11244,7 @@ nav a:hover {
   }
 
 @media only screen and (max-width: 1200px) {}
-  .card {
+  .text {
 
   width: 90%;
   height: 90%;
